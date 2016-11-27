@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='lektor-yandex-metrica',
-    version='0.1.0',
+    version='0.1.1',
     author='Alex Khomchenko',
     author_email='akhomchenko@gmail.com',
     url='https://github.com/gagoman/lektor-yandex-metrica',
